@@ -19,3 +19,6 @@ Save New File (Will also create a MapProtection.cs Plugin.)<br>
 Use Map on server and install plugin in oxide/plugins folder.<br>
 <img src="https://media.discordapp.net/attachments/1060174059465342996/1155144331867467826/stage1.png?width=1552&height=1402" width="800" height="633"><br>
 <img src="https://media.discordapp.net/attachments/1060174059465342996/1155144331548688424/stage2.png?width=2412&height=1402" width="800" height="633"><br>
+<br><br>
+Terms Of Service:<br>
+This plugin, its output or any sections of its code are not to be used on codefling in any form.
