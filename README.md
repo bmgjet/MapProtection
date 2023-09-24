@@ -13,11 +13,12 @@ How To:<br>
 Extract into folder<br>
 Run MapToolGUI<br>
 Select Map<br>
+Select Protections To Apply<br>
 Select Ent Spam Amount<br>
 Add Protection<br>
 Save New File (Will also create a MapProtection.cs Plugin.)<br>
 Use Map on server and install plugin in oxide/plugins folder.<br>
-<img src="https://media.discordapp.net/attachments/1060174059465342996/1155144331867467826/stage1.png?width=1552&height=1402" width="800" height="633"><br>
+<img src="https://media.discordapp.net/attachments/1060174059465342996/1155352198834823229/stage1.png?width=1352&height=1142" width="800" height="633"><br>
 <img src="https://media.discordapp.net/attachments/1060174059465342996/1155144331548688424/stage2.png?width=2412&height=1402" width="800" height="633"><br>
 <br><br>
 Terms Of Service:<br>
